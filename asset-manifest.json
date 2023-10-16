@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-phonebook-vanila/static/css/main.7cda0caf.css",
+    "main.js": "/react-phonebook-vanila/static/js/main.015f5e88.js",
+    "index.html": "/react-phonebook-vanila/index.html",
+    "main.7cda0caf.css.map": "/react-phonebook-vanila/static/css/main.7cda0caf.css.map",
+    "main.015f5e88.js.map": "/react-phonebook-vanila/static/js/main.015f5e88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cda0caf.css",
+    "static/js/main.015f5e88.js"
+  ]
+}
